@@ -11,8 +11,8 @@ This Power BI project provides an in-depth analysis of HR performance metrics ba
 
 ## Instructions
 1. Download the .pbix file and open it in Power BI Desktop.
-2. Explore the dashboard by interacting with the filters and slicers.
-3. You can view insights into employee performance, job satisfaction, promotion eligibility, and retrenchment risk.
+2. Explore the dashboard by interacting with the 3 pages including page Home, Action, and Details.
+3. You can view insights into data including employee performance, job satisfaction, promotion eligibility, and retrenchment risk.
 
 ## Insights
 - Promotion Eligibility: Y% of employees are due for promotion, based on performance ratings.
